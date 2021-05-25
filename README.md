@@ -2,6 +2,7 @@
 
 FAIRIES Hub@UiO is about FAIR research software, Infrastructure, Expertise and Support at the University of Oslo
 
+[![DOI](https://zenodo.org/badge/370479424.svg)](https://zenodo.org/badge/latestdoi/370479424)
 
 ### Hva heter du (fornavn og etternavn)?
 
