@@ -27,13 +27,14 @@ We believe that what fundamentally hinders a wider adoption of “FAIR software�
 - A general lack of understanding regarding the difference between software and mere data;
 - No clear guidelines to researchers on what to do with software;
 - No targeted communication towards each faculty (meet people where they are and take into account their current knowledge and practices);
-- No examples to showcase for each faculty,
+- No examples to showcase for each faculty;
 - Little information/guidance and training on available infrastructure and how to use them (mybinder, NREC and other cloud services) and tools (package managers such as conda, containers, workflow management systems);
 - Unlike publication of research articles or requirements of Research Data Management by funding agencies, there is no real incentive or recognition for those who would be tempted to “do things correctly” as opposed to “do the bare minimum”;
 - UiO does not have a way to provide advice on software licensing.
 
 The purpose of the present hub is to address each of these issues.
-Beskriv kort hvilke resultater og leveranser som skal leveres av denne hub-node konstellasjonen.
+
+### Beskriv kort hvilke resultater og leveranser som skal leveres av denne hub-node konstellasjonen.
 
 Dette inkluderer også en kort beskrivelse av hva man ser for seg etter endt sentral finansiering. Det legges vekt på en sunn "exit-strategi".
 
@@ -42,7 +43,7 @@ The project will deliver:
 - A website with online documentation explaining the differences between software and data, and why it is paramount to adapt the FAIR principles to software in the context of open science and reproducible research;
 - Presentations (face-to-face or online) of FAIR software principles and practical recommendations such as use public repository with version control, add a license, register your code in community registry, enable citation, etc. (see for instance https://fair-software.nl/) to University Librarians, USIT research support and faculty administrators as well as academic staff that are current and future PIs of research projects;
 - A “cookbook” intended to researchers and support staff (research software engineers, USIT research support staff, etc.) from various faculties on what to do with software in practice;
-- Workshops for training researchers on best software practices (with CodeRefinery)
+- Workshops for training researchers on best software practices (with CodeRefinery);
 - Open call(s) for FAIR software champions at UiO (basis for showcases);
 - Showcase examples of FAIR software targeting each faculty (domain specific) with proper usage of the available infrastructure (mybinder, NREC and other cloud services) and tools (package managers such as conda, containers, workflow management systems);
 - Publish FAIR Software champion success stories for broad dissemination at UiO;
@@ -52,7 +53,7 @@ Once a network is formed, and the community as a whole has recognized the import
 
 Software FAIRIES hub @ UiO is not meant to remain as a hub-node. The aim is to transfer all the FAIR software and other best software practices activities to more permanent services served by USIT. Nowadays, apart from training activities (under CodeRefinery framework) there is no service unit to support high-quality research software developments and publication. We are aiming at setting up a new service similar to what is provided by the UK Software Sustainability Institute (https://www.software.ac.uk/) and foresee several steps:
 1. Transfer hub/node activities to USIT that would naturally provide day-to-day services to researchers for their research software;
-2. Identify synergies at national and Nordic level: Norway is a tiny country with few inhabitants and qualified staff in the domain of software engineering in academia is scarce. We think that having a center of excellence at national level would make more sense, and we believe UiO-USIT can lead these activities e.g. extend what will be done within UiO to other universities in Norway.
+2. Identify synergies at national and Nordic level: Norway is a tiny country with few inhabitants, and qualified staff in the domain of software engineering in academia is scarce. We think that having a center of excellence at national level would make more sense, and we believe UiO-USIT can lead these activities e.g. extend what will be done within UiO to other universities in Norway.
 
 ### Angi mulig vertsinstitusjon
 
